@@ -5,7 +5,7 @@
         <style>
           .main {
             font-family: 'Spline Sans Mono', monospace;
-            text-color: white;
+            color: white;
           }
 
           .header {
