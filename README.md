@@ -1,16 +1,15 @@
 <!-- Magic happens here... -->
-<br />
 <h1 align="center"> Welcome to my Github Portfolio page 👋 </h1>
 
 
 ### 💫 About Me:
 I am Eugen, a computer science student at Jaocbs University and I'd like to thank you for visiting my page. I hope you have a good time visiting my various projects. 
 
-🔭 I’m currently working on: Stock Research, Rendezvous, Chat App
-<br>
-🌱 I’m currently learning: Flutter, TensorFlow and SciKit-Learn
+🔭 **I’m currently working on**: Stock Research, Rendezvous, Chat App
+<br />
+🌱 **I’m currently learning**: Flutter, TensorFlow and SciKit-Learn
 
-</br>
+<br />
 
 <div align="center">
 
