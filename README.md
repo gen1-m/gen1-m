@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Welcome to my page! 👋</h1>
+<h1 align="center">Welcome to my page! 👋</h1>
 <h3 align="center">A passionate frontend developer from Albania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gen1-m&label=Profile%20views&color=0e75b6&style=flat" alt="gen1-m" /> </p>
@@ -14,7 +14,7 @@
 <div style="display: flex; gap: 1rem;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gen1-m&show_icons=true&locale=en&theme=ayu-mirage" alt="gen1-m" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gen1-m&" alt="gen1-m" /></p>
-</div> -->
+</div>
 
 <!-- Link for my preferred font family -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
