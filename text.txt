@@ -30,3 +30,5 @@
   </style>
 
 </main>
+
+border: 0.35rem ridge #479cb8; padding: 0.3rem; border-radius: 7rem; margin-bottom: 0.7rem;
