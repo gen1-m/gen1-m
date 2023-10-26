@@ -5,12 +5,16 @@
         <style>
           .main {
             font-family: 'Spline Sans Mono', monospace;
-            color: white;
           }
 
           .header {
             font-size: 2rem;
             text-align: center;
+            color: white;
+          }
+
+          .main > div {
+            color: white;
           }
 
           .pc {
@@ -30,6 +34,7 @@
             justify-content: center;
           }
         </style>
+
       </head>
 
       <div class="main">
