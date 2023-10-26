@@ -1,7 +1,7 @@
 <!-- Magic happens here... -->
 <h1 align="center"> Welcome to my Github Portfolio page 👋 </h1>
 
-<center> 
+<div align="center"> 
 <br />
 
 <img src="oie_rounded_corners.gif">
@@ -10,7 +10,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=gen1-m&icon=5&color=2)](https://visitcount.itsvg.in)
 
-</center>
+</div>
 
 ### 💫 About Me:
 I am Eugen, a computer science student at Jaocbs University and I'd like to thank you for visiting my page. I hope you have a good time visiting my various projects. 
