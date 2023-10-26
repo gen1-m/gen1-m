@@ -13,6 +13,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gen1-m&show_icons=true&locale=en&theme=ayu-mirage)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gen1-m&) -->
+
+
 <!-- Link for my preferred font family -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,3 +38,6 @@
 </main>
 
 
+<div style="width: 100%;">
+  <img src="file.svg" style="width: 100%;" alt="Click to see the source">
+</div>
