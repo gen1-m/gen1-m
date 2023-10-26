@@ -4,6 +4,7 @@
       <head>
         <style>
           .main {
+            color: white;
             font-family: 'Spline Sans Mono', monospace;
           }
 
