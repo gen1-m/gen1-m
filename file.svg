@@ -4,11 +4,11 @@
       <head>
         <style>
           .main {
-            color: white;
             font-family: 'Spline Sans Mono', monospace;
           }
 
           .header {
+            color: white;
             font-size: 2rem;
             text-align: center;
           }
