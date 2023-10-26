@@ -5,10 +5,10 @@
         <style>
           .main {
             font-family: 'Spline Sans Mono', monospace;
+            text-color: white;
           }
 
           .header {
-            text-color: white;
             font-size: 2rem;
             text-align: center;
           }
