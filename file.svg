@@ -1,51 +1,52 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <head>
         <style>
-            .main {
-                font-family: 'Spline Sans Mono', monospace;
-            }
+          .main {
+            font-family: 'Spline Sans Mono', monospace;
+          }
 
-            .header {
-                font-size: 2rem; 
-                text-align: center;
-            }
+          .header {
+            font-size: 2rem;
+            text-align: center;
+          }
 
-            .pc {
-                display: flex; 
-                justify-content: center;
-            }
+          .pc {
+            display: flex;
+            justify-content: center;
+          }
 
-            .gif {
-                border: 0.35rem ridge #479cb8; 
-                padding: 0.3rem;
-                border-radius: 7rem; 
-                margin-bottom: 0.7rem; 
-            }
+          .gif {
+            border: 0.35rem ridge #479cb8;
+            padding: 0.3rem;
+            border-radius: 7rem;
+            margin-bottom: 0.7rem;
+          }
 
-            .stats {
-                display: flex; 
-                justify- content: center;
-            }
+          .stats {
+            display: flex;
+            justify-content: center;
+          }
         </style>
+      </head>
 
-        <div class="main">
-            <div class="header"> Welcome to my Github page! 👋 </div>
-            <div>
-                I am Geni! When I was 10 years old, I first became interested in programming because I wanted to play games but couldn't buy them. That is how I got interested in hacking and programming and began exploring for ways to acquire what I wanted. In addition to teaching me essential technical skills, my experience with programming has also helped me develop soft skills that have aided me in my career. These abilities include critical thinking, problem-solving, adaptability, flexibility, time management, and work ethic. Currently, I'm continuing my journey by studying at Jacobs University Bremen for a Bachelor of Science in Computer Science with a minor in Robotics.
-            </div>
-            </br>
-            <div class="pc" >
-                <img class="gif" src="https://media.tenor.com/vrFbK2_nYwoAAAAC/vaporwave.gif">
-            </div>
-            </br>
-            <div class="stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=gen1-m&show_icons=true&theme=ayu-mirage" width="580"/>
-            </div>
-            <!-- <img src="https://giffiles.alphacoders.com/124/124961.gif" -->
+      <div class="main">
+        <div class="header"> Welcome to my Github page! 👋 </div>
+        <div>
+          I am Geni! When I was 10 years old, I first became interested in programming because I wanted to play games but couldn't buy them. That is how I got interested in hacking and programming and began exploring for ways to acquire what I wanted. In addition to teaching me essential technical skills, my experience with programming has also helped me develop soft skills that have aided me in my career. These abilities include critical thinking, problem-solving, adaptability, flexibility, time management, and work ethic. Currently, I'm continuing my journey by studying at Jacobs University Bremen for a Bachelor of Science in Computer Science with a minor in Robotics.
         </div>
-          <!-- Link for my preferred font family -->
+        <br />
+        <div class="pc">
+          <!-- <img class="gif" src="https://media.tenor.com/vrFbK2_nYwoAAAAC/vaporwave.gif"> -->
+        </div>
+        <br />
+        <div class="stats">
+          <!-- <img src="https://github-readme-stats.vercel.app/api?username=gen1-m&show_icons=true&theme=ayu-mirage" width="580" /> -->
+        </div>
+        <!-- <img src="https://giffiles.alphacoders.com/124/124961.gif" -->
       </div>
+      <!-- Link for my preferred font family -->
     </div>
   </foreignObject>
 </svg>
