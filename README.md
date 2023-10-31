@@ -13,7 +13,7 @@
 
 </div>
 
-### 💫 About Me:
+## 💫 About Me:
 I am Eugen, a computer science student at Jaocbs University and I'd like to thank you for visiting my page. I hope you have a good time visiting my various projects. 
 
 🔭 **I’m currently working on**: Stock Research, Rendezvous, Chat App
@@ -22,14 +22,11 @@ I am Eugen, a computer science student at Jaocbs University and I'd like to than
 
 
 <!-- <img src="https://giffiles.alphacoders.com/124/124961.gif" -->
---- 
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eugen-mamaj) 
 
---- 
-
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -46,11 +43,9 @@ I am Eugen, a computer science student at Jaocbs University and I'd like to than
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
---- 
-
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gen1-m&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
