@@ -14,16 +14,15 @@
 </div>
 
 ### 💫 About Me:
-I am Eugen, a computer science student at Jaocbs University and I'd like to thank you for visiting my page. I hope you have a good time visiting my various projects. 
+I am Eugen, a computer science student at Constructor University (previously Jacobs University). I like to code a lot, and also play the guitar. 
+Feel free to look through my projects.
 
-🔭 **I’m currently working on**: Stock Research, Rendezvous, Chat App
+🔭 **I’m currently working on**: [Stock Research](https://github.com/gen1-m/stock-research), [Kikirikat](https://github.com/idrizp/kikirikat)
 <br />
-🌱 **I’m currently learning**: Flutter, TensorFlow and SciKit-Learn
+🌱 **I’m currently learning**: Tensorflow, SciKit Learn, Machine Learning and System Design
 
 
-<!-- <img src="https://giffiles.alphacoders.com/124/124961.gif" -->
---- 
-
+<!-- <img src="https://giffiles.alphacoders.com/124/124961.gif"> -->
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eugen-mamaj) 
 
@@ -54,6 +53,5 @@ I am Eugen, a computer science student at Jaocbs University and I'd like to than
 ![](https://github-readme-stats.vercel.app/api?username=gen1-m&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
