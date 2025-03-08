@@ -17,10 +17,6 @@
 I am Eugen, a computer science student at Constructor University (previously Jacobs University). I like to code a lot, and also play the guitar. 
 Feel free to look through my projects.
 
-🔭 **I’m currently working on**: [Stock Research](https://github.com/gen1-m/stock-research), [Kikirikat](https://github.com/idrizp/kikirikat)
-<br />
-🌱 **I’m currently learning**: Tensorflow, SciKit Learn, Machine Learning and System Design
-
 
 <!-- <img src="https://giffiles.alphacoders.com/124/124961.gif"> -->
 ### 🌐 Socials:
